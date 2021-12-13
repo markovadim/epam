@@ -1,0 +1,8 @@
+package by.markov.algorithmization.decomposition.seventh;
+
+public class Main {
+    public static void main(String[] args) {
+        Factorial factorial = new Factorial();
+        factorial.getSumOfFact();
+    }
+}
